@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6/03/2020, 07:54:38 PM
+    Author     : itzel
+*/
+
+.navbar {
+  background-color: transparent !important;
+  z-index:2;
+}
+/*.navbar .btn-outline-success{
+    color: #32a299;
+    border-color: #32a299;
+}*/
+.dropdown-header{
+    text-align: center;
+}
+#linkM{
+    text-align: center;
+       color: #ca6a6a !important;
+}
+
+
+#buscar-libro {
+    background-color: #444444;
+    border-radius: 0;
+    border: 0;
+    color: white;
+    flex: 1;
+}
+
+.dropdown-header{
+    text-align: center;
+}
+#linkM{
+    text-align: center;
+       color: #ca6a6a;
+}
+#btnBusqueda{
+     background-color: #c88585!important;
+    border-radius: 25px;
+    width: 38px;
+}
+
+.btn-primary{
+    background-color: black!important;
+    border-color: black;
+    color: white!important; 
+}
+
+.navbar>#userItem{
+   float: right!important;
+}
